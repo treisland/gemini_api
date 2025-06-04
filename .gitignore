@@ -4,3 +4,5 @@ generated_images/
 generated_images/*
 generated_videos/
 generated_videos/*
+
+prompts/*.txt
